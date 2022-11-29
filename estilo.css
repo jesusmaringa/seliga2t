@@ -1,1 +1,18 @@
-
+.vermelho{
+    width: 600px;
+    height: 400px;
+    background: red;
+    display: flex;
+    align-items: center;
+    
+}
+.branco1 {
+    width: 200px;
+    height: 40px;
+    background: white;
+}
+.branco2 {
+    width: 40px;
+    height: 200px;
+    background: white;
+}
